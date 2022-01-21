@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595773881 source:f:\c programming\biggernumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

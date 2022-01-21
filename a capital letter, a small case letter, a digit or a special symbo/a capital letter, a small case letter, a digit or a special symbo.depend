@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595875844 source:f:\c programming\ a capital letter, a small case letter, a digit or a special symbo\main.c
+	<stdio.h>
+	<stdlib.h>
+
